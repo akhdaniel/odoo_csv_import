@@ -1,4 +1,7 @@
-*.pyc
-.project
-.pydevproject
-
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
